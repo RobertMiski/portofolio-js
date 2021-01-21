@@ -51,6 +51,9 @@ h1 {
   h2 {
     font-size: 1.5rem !important;
   }
+  p {
+    font-size: 0.7rem !important;
+  }
   .responsive-img {
     margin-bottom: 3rem !important;
   }
