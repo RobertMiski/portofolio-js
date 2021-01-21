@@ -42,7 +42,9 @@ mark {
   font-weight: 600;
   box-shadow: black 5px 5px !important;
 }
-
+i {
+  padding-right: 0.5rem !important;
+}
 .buton1:hover {
   background-color: yellow !important;
   color: black !important;
