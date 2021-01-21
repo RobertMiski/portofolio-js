@@ -45,6 +45,7 @@ mark {
 i {
   padding-right: 0.5rem !important;
 }
+
 .buton1:hover {
   background-color: yellow !important;
   color: black !important;
@@ -63,6 +64,5 @@ i {
     font-size: 0.7rem !important;
   }
   .responsive-img {
-    margin-bottom: 3rem !important;
   }
 }
