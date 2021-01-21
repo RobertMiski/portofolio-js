@@ -43,3 +43,12 @@ h1 {
   transform: scale(1.1);
   border-radius: 5rem !important;
 }
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 2rem !important;
+  }
+  h2 {
+    font-size: 1.5rem !important;
+  }
+}
