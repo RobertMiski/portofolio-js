@@ -16,6 +16,9 @@
   transform: scale(1.1);
   border-radius: 5rem !important;
 }
+body {
+  background-color: #161616 !important;
+}
 
 h2 {
   font-weight: bold !important;
@@ -29,12 +32,15 @@ h1 {
 .imagine-card {
   width: 40rem !important;
 }
-
+mark {
+  padding: 0;
+}
 .buton1 {
-  color: yellow !important;
-  background-color: #333333 !important;
+  color: black !important;
+  background-color: yellow !important;
   border: 2px solid yellow !important;
   font-weight: 600;
+  box-shadow: black 5px 5px !important;
 }
 
 .buton1:hover {
